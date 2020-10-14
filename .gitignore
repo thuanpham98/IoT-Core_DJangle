@@ -14,11 +14,15 @@ dist/
 downloads/
 eggs/
 .eggs/
+
+# for my Project
 IoT-Core-DJ/lib/
 IoT-Core-DJ/lib64/
 IoT-Core-DJ/bin/
 IoT-Core-DJ/include/
 IoT-Core-DJ/pyvenv.cfg
+.vscode/
+
 parts/
 sdist/
 var/
